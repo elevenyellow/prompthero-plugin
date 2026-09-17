@@ -2,7 +2,7 @@
 
 Create AI images and videos from a conversation. This plugin connects your assistant to your PromptHero account through a remote MCP server.
 
-**Pre-launch:** the plugin package is prepared for marketplace submission. The public MCP service and Grok Bot listing are not live yet. Publishing this repository does not make the connector available in Grok Bot.
+**Pre-launch:** Cursor confirmed receipt of the publisher application on September 17, 2026. Marketplace review is pending. The public MCP service and Grok Bot listing are not live yet. Publishing this repository does not make the connector available in Grok Bot.
 
 ## Connect
 
