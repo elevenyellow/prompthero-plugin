@@ -1,0 +1,14 @@
+{
+  "name": "prompthero",
+  "displayName": "PromptHero",
+  "version": "0.1.0",
+  "description": "Create AI images and videos with PromptHero. Discover models, check credits, generate media, and retrieve your results from your assistant.",
+  "author": {
+    "name": "PromptHero"
+  },
+  "homepage": "https://prompthero.com/mcp",
+  "repository": "https://github.com/elevenyellow/prompthero-plugin",
+  "keywords": ["prompthero", "image-generation", "video-generation", "creative", "mcp"],
+  "logo": "assets/logo.png",
+  "mcpServers": "mcp.json"
+}
